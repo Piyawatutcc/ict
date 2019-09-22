@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1569146186,,"wq"
+|2,0,1569157068,,"wq"
 :q
 |2,0,1569146098,,"q"
 
@@ -33,22 +33,32 @@
 |3,0,2,1,1,0,1569146160,"JAVA_HOME=\"/usr/lib/jvm/java-11-openjdk-amd64/bin/\""
 
 # File marks:
-'0  2  0  /etc/environment
-|4,48,2,0,1569146186,"/etc/environment"
-'1  1  0  /etc/environment
-|4,49,1,0,1569146098,"/etc/environment"
+'0  1  0  ~/file1
+|4,48,1,0,1569157068,"~/file1"
+'1  2  0  /etc/environment
+|4,49,2,0,1569146186,"/etc/environment"
 '2  1  0  /etc/environment
 |4,50,1,0,1569146098,"/etc/environment"
-'3  8  0  /etc/group
-|4,51,8,0,1569144329,"/etc/group"
-'4  30  0  /etc/sudoers
-|4,52,30,0,1569144298,"/etc/sudoers"
+'3  1  0  /etc/environment
+|4,51,1,0,1569146098,"/etc/environment"
+'4  8  0  /etc/group
+|4,52,8,0,1569144329,"/etc/group"
+'5  30  0  /etc/sudoers
+|4,53,30,0,1569144298,"/etc/sudoers"
 
 # Jumplist (newest first):
+-'  1  0  ~/file1
+|4,39,1,0,1569157068,"~/file1"
+-'  2  0  /etc/environment
+|4,39,2,0,1569146186,"/etc/environment"
 -'  2  0  /etc/environment
 |4,39,2,0,1569146186,"/etc/environment"
 -'  1  0  /etc/environment
 |4,39,1,0,1569146119,"/etc/environment"
+-'  1  0  /etc/environment
+|4,39,1,0,1569146119,"/etc/environment"
+-'  1  0  /etc/environment
+|4,39,1,0,1569146098,"/etc/environment"
 -'  1  0  /etc/environment
 |4,39,1,0,1569146098,"/etc/environment"
 -'  8  0  /etc/group
@@ -59,6 +69,22 @@
 |4,39,8,0,1569144329,"/etc/group"
 -'  8  0  /etc/group
 |4,39,8,0,1569144329,"/etc/group"
+-'  8  0  /etc/group
+|4,39,8,0,1569144329,"/etc/group"
+-'  8  0  /etc/group
+|4,39,8,0,1569144329,"/etc/group"
+-'  8  0  /etc/group
+|4,39,8,0,1569144329,"/etc/group"
+-'  8  0  /etc/group
+|4,39,8,0,1569144329,"/etc/group"
+-'  1  0  /etc/group
+|4,39,1,0,1569144308,"/etc/group"
+-'  1  0  /etc/group
+|4,39,1,0,1569144308,"/etc/group"
+-'  1  0  /etc/group
+|4,39,1,0,1569144308,"/etc/group"
+-'  1  0  /etc/group
+|4,39,1,0,1569144308,"/etc/group"
 -'  1  0  /etc/group
 |4,39,1,0,1569144308,"/etc/group"
 -'  1  0  /etc/group
@@ -83,6 +109,38 @@
 |4,39,30,0,1569144298,"/etc/sudoers"
 -'  30  0  /etc/sudoers
 |4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  30  0  /etc/sudoers
+|4,39,30,0,1569144298,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1569144267,"/etc/sudoers"
 -'  1  0  /etc/sudoers
 |4,39,1,0,1569144267,"/etc/sudoers"
 -'  1  0  /etc/sudoers
@@ -101,6 +159,13 @@
 |4,39,1,0,1569144267,"/etc/sudoers"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1569157066	0
+	"	1	0
+	^	1	1
+	.	1	1
+	+	1	1
 
 > /etc/environment
 	*	1569146173	0

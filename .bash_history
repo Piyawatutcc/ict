@@ -48,3 +48,75 @@ echo $JAVA_HOME
 sourcr /etc/environment 
 source /etc/environment 
 echo $JAVA_HOME
+git init
+sudo git init
+echo "# ict" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Piyawatutcc/ict.git
+git push -u origin master
+git init
+ls -l
+cat README.md 
+git branch
+git branch-all
+git branch --all
+history
+git checkout -b feature1
+git branch --all
+git log --all --graph --oneline
+touch file1
+git status
+git add .
+sudo git add .
+sudo git commit -m "Add file1"
+git brach --all
+git branch --all
+git log --all --graph --oneline
+git checkout master
+touch file2
+git add .
+git commit -m "Add file2"
+git log --all --graph --oneline
+git merge feature1
+sudo git merge feature1
+git log --all --graph --oneline
+git branch -d feature1
+git log --all --graph --oneline
+git checkout -b feature2
+git log --all --graph --oneline
+nano file1 ***change to hello bangkok"
+
+
+
+id
+
+:q
+
+
+
+save
+
+quit
+
+
+
+
+
+exit
+
+
+
+
+
+q
+
+
+
+\nano file1 ***change to hello bangkok"
+id
+:q
+save
+quit
+exit
