@@ -12,7 +12,11 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1569157214,,"wq"
+=======
+|2,0,1569157068,,"wq"
+>>>>>>> feature2
 :q
 |2,0,1569146098,,"q"
 
@@ -34,7 +38,11 @@
 
 # File marks:
 '0  1  0  ~/file1
+<<<<<<< HEAD
 |4,48,1,0,1569157214,"~/file1"
+=======
+|4,48,1,0,1569157068,"~/file1"
+>>>>>>> feature2
 '1  2  0  /etc/environment
 |4,49,2,0,1569146186,"/etc/environment"
 '2  1  0  /etc/environment
@@ -48,7 +56,11 @@
 
 # Jumplist (newest first):
 -'  1  0  ~/file1
+<<<<<<< HEAD
 |4,39,1,0,1569157214,"~/file1"
+=======
+|4,39,1,0,1569157068,"~/file1"
+>>>>>>> feature2
 -'  2  0  /etc/environment
 |4,39,2,0,1569146186,"/etc/environment"
 -'  2  0  /etc/environment
@@ -161,11 +173,19 @@
 # History of marks within files (newest to oldest):
 
 > ~/file1
+<<<<<<< HEAD
 	*	1569157212	0
 	"	1	0
 	^	1	1
 	.	1	0
 	+	1	0
+=======
+	*	1569157066	0
+	"	1	0
+	^	1	1
+	.	1	1
+	+	1	1
+>>>>>>> feature2
 
 > /etc/environment
 	*	1569146173	0
